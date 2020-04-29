@@ -1,5 +1,5 @@
 # daily_QoL
-Quality of Life Scripts, contain lots of snippets and different code that I've collected / developed over the years and maintained so it all works. Its a collection from other scripts as well as my own stuff.
+Quality of Life Scripts, contain lots of snippets and different code that I've collected / developed over the years and maintained so it all works. Its a collection from other scripts as well as my own stuff. Modernised a lot of the code for current ESX and FiveM Natives. Also made it a little more optimal.
 
 ## Features
 - Anti Vehicle Air Control
