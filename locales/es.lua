@@ -14,5 +14,5 @@ Locales['es'] = {
 	['commands_lookup'] = 'Eso es ~b~',
 
 	-- no drive-by
-	['nodrive_action_disabled'] = 'Conducir disparando no es permitido en este servidor.',
+	['nodrive_action_disabled'] = 'Conducir disparando no está permitido en este servidor.',
 }
